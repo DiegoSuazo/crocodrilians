@@ -1,0 +1,14 @@
+ecommerce 
+cartas pokemon
+
+boster box
+blíster promos 
+integración shoopyfy
+blue express
+hacer transferencias : nombre, correo, teléfono, tipo de envió(metropolitana es gratis, envió a regiones por costo de KM).
+
+
+diagramas, aprender el código 
+shoopyfy 
+webpay
+base de datos que ocupare (PostgreSQL, MongoDB)
